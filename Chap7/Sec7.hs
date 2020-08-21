@@ -1,5 +1,4 @@
-import qualified Data.Map as Map
-
+{-# OPTIONS -Wall #-}
 {- 7.7 -}
 data List a = Empty | Cons a (List a) deriving (Show, Read, Eq, Ord)
 

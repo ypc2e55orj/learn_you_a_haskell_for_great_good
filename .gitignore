@@ -3,6 +3,7 @@ dist-*
 cabal-dev
 *.o
 *.hi
+*.elf
 *.hie
 *.chi
 *.chs.h
